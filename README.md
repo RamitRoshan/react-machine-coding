@@ -1,6 +1,6 @@
 # Frontend Machine Coding Practice (Live Interview Oriented)
 
-This repository contains solutions to **most frequently asked frontend machine coding questions** that companies ask in **live interviews** (CodeSandbox / StackBlitz / CoderPad).
+This repository contains solutions to **most frequently asked frontend machine coding questions** that companies ask in **live interviews** (CodeSandbox).
 
 All problems are implemented using **React + JavaScript** and focus on **logic, state management, and component structure** rather than styling.
 
