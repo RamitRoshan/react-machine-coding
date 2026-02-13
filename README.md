@@ -219,6 +219,13 @@ All problems are implemented using **React + JavaScript** and focus on **logic, 
 
 ---
 
+## 16. Calculator
+**Requirements:**
+- Build a calculator app : +, -, x, /
+
+
+---
+
 ## Notes
 - All problems are practiced in **live coding environment**
 - Focus is on **logic, clarity, and interview readiness**
@@ -242,7 +249,9 @@ machine-coding/
  ├── debounce-search/
  ├── select-all-checkbox/
  ├── infinite-scroll/
+ ├── calculator/
  └── countdown-timer/
+
 ```
 
 # 🔥 FINAL RULE
