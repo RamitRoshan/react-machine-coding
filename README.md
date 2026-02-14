@@ -238,9 +238,10 @@ All problems are implemented using **React + JavaScript** and focus on **logic, 
 machine-coding/
  ├── README.md
  ├── todo-app/
- ├── search-filter/
+ ├── search-filter/  
  ├── tabs/
- ├── accordion/
+ ├── accordion/ (✅)
+ ├── Counter with Constraints/ (✅)
  ├── modal/
  ├── form-validation/
  ├── pagination/
@@ -248,7 +249,7 @@ machine-coding/
  ├── star-rating/
  ├── debounce-search/
  ├── select-all-checkbox/
- ├── infinite-scroll/
+ ├── infinite-scroll/ (✅)
  ├── calculator/
  └── countdown-timer/
 
