@@ -250,7 +250,7 @@ machine-coding/
  ├── debounce-search/
  ├── select-all-checkbox/
  ├── infinite-scroll/ (✅)
- ├── calculator/
+ ├── calculator/ (✅)
  └── countdown-timer/
 
 ```
