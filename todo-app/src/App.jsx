@@ -1,10 +1,11 @@
 import './App.css'
+import ToDoList from "./TodoList";
 
 function App() { 
 
   return (
     <div>
-      <h2>ToDO App</h2>
+      <ToDoList/>
     </div>
   )
 }
